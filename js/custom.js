@@ -1,5 +1,11 @@
 var mapData = [
   {
+    description: 'L\'entree,<br> Persoonstraat 14, 3500 Hasselt',
+    coordinates: {
+      lat: 50.948729,
+      lng: 5.2770562
+    }
+  },{
     description: 'Dranken Gijbels,<br> Schoebroekstraat 63, 3583 Paal',
     coordinates: {
       lat: 51.0607868,
