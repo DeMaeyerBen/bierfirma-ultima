@@ -1,9 +1,15 @@
 var mapData = [
-  {
+   {
+    description: 'De Gouden Leeuw,<br> Molenstraat 60, 3740 Bilzen',
+    coordinates: {
+      lat: 50.9026991,
+      lng: 5.466203
+    }
+  },{
     description: 'L\'entree,<br> Persoonstraat 14, 3500 Hasselt',
     coordinates: {
-      lat: 50.948729,
-      lng: 5.2770562
+      lat: 50.9309041,
+      lng: 5.3403796
     }
   },{
     description: 'Dranken Gijbels,<br> Schoebroekstraat 63, 3583 Paal',
