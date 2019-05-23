@@ -1,5 +1,17 @@
 var mapData = [
    {
+    description: 'Eetcafe Tom,<br>Tulpinstraat 40, 3500 Hasselt',
+    coordinates: {
+      lat: 50.9576726,
+      lng: 5.3681767
+    }
+  },{
+    description: 'Happy Snooker,<br> Oude Luikerbaan 81/A, 3500 Hasselt',
+    coordinates: {
+      lat: 50.9211693,
+      lng: 5.3443015
+    }
+  },{
     description: 'De Gouden Leeuw,<br> Molenstraat 60, 3740 Bilzen',
     coordinates: {
       lat: 50.9026991,
