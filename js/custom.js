@@ -1,6 +1,17 @@
 var mapData = [
-   
    {
+    description: 'De Gebrande Winning,<br>Zepperenweg 7, 3800 Sint-Truiden',
+    coordinates: {
+      lat: 50.8168165,
+      lng: 5.1955217
+    }
+  },{
+    description: 'Restaurant De Poorterij,<br>Langstraat 10, 3650 Elen',
+    coordinates: {
+      lat: 51.0684039,
+      lng: 5.7532869
+    }
+  },{
     description: 'Prik&Tik Leopoldsburg,<br>Lommelsesteenweg 23, 3970 Leopoldsburg',
     coordinates: {
       lat: 51.1260398,
