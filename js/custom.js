@@ -1,5 +1,11 @@
 var mapData = [
    {
+    description: 'B&B De Bloesem,'<br>'Herenstraat 10, 3730 Hoeselt',
+    coordinates: {
+      lat: 50.8276327,
+      lng: 5.4501915
+    }
+  },{
     description: 'Eetcafe Tom,<br>Tulpinstraat 40, 3500 Hasselt',
     coordinates: {
       lat: 50.9576726,
