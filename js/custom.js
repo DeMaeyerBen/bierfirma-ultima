@@ -3,8 +3,8 @@ var mapData = [
    {
     description: 'Prik&Tik Hechtel-Eksel,<br>Lommelsesteenweg 23, 3970 Leopoldsburg',
     coordinates: {
-      lat: 51.1260081,
-      lng: 5.2540545
+      lat: 51.1260398,
+      lng: 5.2567318
     }
   },{
     description: 'Prik&Tik Leopoldsburg,<br>Lommelsesteenweg 23, 3970 Leopoldsburg',
