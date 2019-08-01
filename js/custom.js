@@ -1,6 +1,6 @@
 var mapData = [
    {
-    description: 'B&B De Bloesem,'<br>'Herenstraat 10, 3730 Hoeselt',
+    description: 'B&B De Bloesem,<br>Herenstraat 10, 3730 Hoeselt',
     coordinates: {
       lat: 50.8276327,
       lng: 5.4501915
