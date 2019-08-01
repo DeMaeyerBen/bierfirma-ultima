@@ -1,5 +1,30 @@
 var mapData = [
+   
    {
+    description: 'Prik&Tik Hechtel-Eksel,<br>Lommelsesteenweg 23, 3970 Leopoldsburg',
+    coordinates: {
+      lat: 51.1260081,
+      lng: 5.2540545
+    }
+  },{
+    description: 'Prik&Tik Leopoldsburg,<br>Lommelsesteenweg 23, 3970 Leopoldsburg',
+    coordinates: {
+      lat: 51.1260081,
+      lng: 5.2540545
+    }
+  },{
+    description: 'Bierpunt Tongeren,<br>Piringenstraat 4, 3700 Tongeren',
+    coordinates: {
+      lat: 50.7857486,
+      lng: 5.4181303
+    }
+  },{
+    description: 'De Biertempel,<br>Grote Markt 11, 3290 Diest',
+    coordinates: {
+      lat: 50.9845297,
+      lng: 5.0487532
+    }
+  },{
     description: 'B&B De Bloesem,<br>Herenstraat 10, 3730 Hoeselt',
     coordinates: {
       lat: 50.8276327,
