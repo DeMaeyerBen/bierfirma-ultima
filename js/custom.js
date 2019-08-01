@@ -9,8 +9,8 @@ var mapData = [
   },{
     description: 'Bierpunt Tongeren,<br>Piringenstraat 4, 3700 Tongeren',
     coordinates: {
-      lat: 50.786147,
-      lng: 5.421416
+      lat: 50.7857452,
+      lng: 5.420319
     }
   },{
     description: 'De Biertempel,<br>Grote Markt 11, 3290 Diest',
