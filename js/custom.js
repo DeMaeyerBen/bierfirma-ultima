@@ -1,5 +1,11 @@
 var mapData = [
    {
+    description: 'De Zonhoeve,<br>Zonhoevestraat 3, 3740 Bilzen',
+    coordinates: {
+      lat: 50.8909261,
+      lng: 5.4708709
+    }
+  },{
     description: 'De Gebrande Winning,<br>Zepperenweg 7, 3800 Sint-Truiden',
     coordinates: {
       lat: 50.8168165,
