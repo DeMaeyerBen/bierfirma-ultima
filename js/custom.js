@@ -2,8 +2,8 @@ var mapData = [
    {
     description: 'De Zonhoeve,<br>Zonhoevestraat 3, 3740 Bilzen',
     coordinates: {
-      lat: 50.8909261,
-      lng: 5.4708709
+      lat: 50.890953, 
+      lng: 5.473038
     }
   },{
     description: 'De Gebrande Winning,<br>Zepperenweg 7, 3800 Sint-Truiden',
@@ -54,12 +54,6 @@ var mapData = [
       lng: 5.3443015
     }
   },{
-    description: 'De Gouden Leeuw,<br> Molenstraat 60, 3740 Bilzen',
-    coordinates: {
-      lat: 50.9026991,
-      lng: 5.466203
-    }
-  },{
     description: 'L\'entree,<br> Persoonstraat 14, 3500 Hasselt',
     coordinates: {
       lat: 50.9309041,
@@ -98,8 +92,8 @@ var mapData = [
   },{
     description: 'Bierpunt Diepenbeek,<br> Marktplein, 3590 Diepenbeek',
     coordinates: {
-      lat: 50.9075316,
-      lng: 5.4180699
+      lat: 50.907534, 
+      lng: 5.420254
     }
   },{
     description: 'Bierpunt Hasselt,<br> Zuivelmarkt 29, 3500 Hasselt',
