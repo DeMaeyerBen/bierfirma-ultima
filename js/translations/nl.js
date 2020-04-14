@@ -1,4 +1,22 @@
 const translationsNl = {    // NEDERLANDSE vertaling verplicht
   mainTitle: 'Drink, Beleef en Geniet!',
-  BeeHoneyText: 'This is a blond beer bichez'
+  orderOnline: 'Bestel Online',
+  find: 'Vind Ultima',
+  aboutUs: 'Over Ons',
+  dryHoppedText: 'Een atypische Belgische tripel met toevoeging van Amerikaanse hoppen en oranjeschil welke zorgen voor de frisse toetsen in het bier. Deze tripel leent zich er toe te drinken bij warme zomerdagen. Het bier geeft een aangename bitterheid welke even blijft nazinderen op de tong. Het bier heeft een alcoholpercentage van 8% en is te verkrijgen in flesjes van 33cl.',
+  dateDryHopped: 'Anno februari 2019',
+  beeHoneyText: 'Een blond bier met toevoeging van honing van de Hasseltse <a href ="https://www.thehappybees.be/" target="_blank" rel="noopener noreferrer">Imkerij The Happy Bees. </a> Het bier bevat de zoete toets van honing met licht kruidige aromaten. Dit blond bier geeft een warm mondgevoel. Het bier heeft een alcoholpercentage van 7% en is te verkrijgen in flesjes van 33cl.',
+  dateBeeHoney: 'Anno december 2019',
+  rumOakedText: 'Deze Barley Wine is een donker bier van 10% alcohol welke heeft gerijpt op eiken snippers met Belgische Rum Double aged van <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle</a>. Een uniek smakenpallet van chocolade, vanille, rum, hout en nog veel meer. Dit bier is volledig artisanaal gebrouwen met een beperkte oplage van in de 640 flessen. Dit bier is enkel te verkrijgen in flessen van 75cl. met kurken stop.',
+  dateRumOaked: 'Anno december 2019',
+  tryUltima: 'Probeer Ultima vandaag!',
+  introUltima: 'Ultima al verkrijgbaar bij jou in de buurt? Als er verkooppunten ontbreken, laat ons dit gerust weten.',
+  findUltima: 'Vind Ultima!',
+  contactUs: 'Mail Ons!',
+  pubs: 'Café\'s',
+  shops: 'Winkels',
+  aboutUsText: 'Wij van Bierfirma Ultima zijn 4 vrienden met een passie voor bierbrouwen en receptontwikkeling. Hieruit zijn er momenteel 3 bieren voortgevloeid. Een blond honingbier van 7% Alc. , een Exotische Tripel van 8% Alc. en tot slot een Barley wine van 10% Alc. Met deze bieren willen we onze stempel drukken op de grote biermarkt in België. Een eigen brouwerij is toekomstmuziek maar zeker niet onbestaande.',
+  beerLover: 'Bierfliefhebber',
+  zyhtologist: 'Zytholoog',
+  zyhtologistBrewer: 'Zytholoog <br> Brouwer'
 }
