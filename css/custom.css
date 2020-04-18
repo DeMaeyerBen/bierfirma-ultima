@@ -1,0 +1,38 @@
+.lang-selector {
+  position: absolute;
+  right: 1rem;
+  top: -1rem;
+  text-transform: uppercase;
+}
+
+#fh5co-offcanvass .dropdown-menu li a {
+  padding: 10px;
+}
+
+#fh5co-offcanvass .dropdown-menu {
+  margin-top: 0px;
+}
+
+.open.dropdown.icon .dropdown-menu {
+  display: block;
+}
+
+.dropdown.icon {
+  display: inline;
+}
+
+.fh5co-social-icons { 
+  display: flex;
+}
+
+.fh5co-social-icons .dropdown.icon {
+  margin-right: 10px;
+}
+
+#fh5co-footer .fh5co-social-icons .dropdown-menu > li > a {
+  font-size: 14px;
+}
+
+#fh5co-footer .fh5co-social-icons .dropdown-menu > li {
+  margin: 5px 0;
+}
