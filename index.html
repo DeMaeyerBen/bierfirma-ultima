@@ -49,23 +49,42 @@
 				<li><a href="#" data-nav-section="ultima-exotic">Dry - Hopped Exotic Tripel</a></li>
 				<li><a href="#" data-nav-section="ultima-BeeHoney">Bee - Honey</a></li>
 				<li><a href="#" data-nav-section="ultima-RumOaked">Rum - Oaked</a></li>
-				<li><a href="https://www.bierwebshop.be/bierfirma-ultima/?fbclid=IwAR2XwLLUus8SWwvGDRiIFQV86L1MVl2hXrOm4DOqPRyXYjBht44Xoa9zRZ8" target="_blank" rel="noopener noreferrer" data-i18n="orderOnline">Bestel Online</a></li>
+				<li><a class="external" href="https://www.bierwebshop.be/bierfirma-ultima/" target="_blank" rel="noopener noreferrer" data-i18n="orderOnline">Bestel Online</a></li>
 				<li><a href="#" data-nav-section="vind-ultima" data-i18n="find">Vind Ultima</a></li>
 				<li><a href="#" data-nav-section="about" data-i18n="aboutUs">Over Ons</a></li>
-				<li><a href="https://untappd.com/w/bierfirma-ultima/415798" target="_blank" rel="noopener noreferrer">Untapped</a></li>
+				<li><a class="external" href="https://untappd.com/w/bierfirma-ultima/415798" target="_blank" rel="noopener noreferrer">Untapped</a></li>
 				<!-- <li><a href="#" data-nav-section="contact">Contact</a></li> -->
-				<li><a href="#" class="external" onclick="changeLanguage(event)" data-lang="en">English</a></li>
+				<li class="dropdown">
+					<a
+						href="#"
+						class="dropdown-toggle external"
+						id="drop1"
+						data-toggle="dropdown"
+						role="button"
+						aria-haspopup="true"
+						aria-expanded="false"
+					>
+						Languages 
+						<span class="caret"></span> 
+					</a>
+					<ul class="dropdown-menu" aria-labelledby="drop1"> 
+						<li><a class="external" href="#" onclick="changeLanguage(event, 'nl')">NL - nederlands</a></li> 
+						<li><a class="external" href="#" onclick="changeLanguage(event, 'fr')">FR - français</a></li> 
+						<li><a class="external" href="#" onclick="changeLanguage(event, 'en')">EN - english</a></li> 
+					</ul>
+				</li>
 			</ul>
+
 			<h3 class="fh5co-lead">Connect with us</h3>
 			<p class="fh5co-social-icons">
 				<!-- <a href="#"><i class="icon-twitter"></i></a> -->
-				<a href="https://www.facebook.com/BierfirmaUltima/" target="_blank" rel="noopener noreferrer">
+				<a class="external" href="https://www.facebook.com/BierfirmaUltima/" target="_blank" rel="noopener noreferrer">
 					<i class="icon-facebook"></i>
 				</a>
-				<a href="https://www.instagram.com/bierfirmaultima/" target="_blank" rel="noopener noreferrer">
+				<a class="external" href="https://www.instagram.com/bierfirmaultima/" target="_blank" rel="noopener noreferrer">
 					<i class="icon-instagram"></i>
 				</a>
-				<a href="mailto:info@bierfirma-ultima.be">
+				<a class="external" href="mailto:info@bierfirma-ultima.be">
 					<i class="icon-mail2"></i>
 				</a>
 			</p>
@@ -77,7 +96,7 @@
 					<div class="col-md-12">
 						<a href="#" class="external js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#fh5co-navbar" aria-expanded="false" aria-controls="navbar"><span>Menu</span> <i></i></a>
 						<a href="index.html" class="navbar-brand"><span data-title="Bierfirma Ultima" data-title-small="Ultima"></span></a>
-						<a href="https://www.bierwebshop.be/bierfirma-ultima/" class="navbar-brand"><span data-title="Webshop" data-title-small="Ultima"></span></a>
+						<a href="https://www.bierwebshop.be/bierfirma-ultima/" target="_blank" class="navbar-brand"><span data-title="Webshop" data-title-small="Shop"></span></a>
 					</div>
 				</div>
 			</div>
@@ -139,7 +158,7 @@
 									<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
 										<h2 class="fh5co-lead to-animate">Ultima Dry-Hopped Exotic Tripel</h2>
 										<p class="fh5co-sub to-animate" data-i18n="dryHoppedText">
-											Een atypische Belgische tripel met toevoeging van Amerikaanse hoppen en oranjeschil welke zorgen voor de frisse toetsen in het bier. Deze tripel leent zich er toe te drinken bij warme zomerdagen. Het bier geeft een aangename bitterheid welke even blijft nazinderen op de tong. Het bier heeft een alcoholpercentage van 8% en is te verkrijgen in flesjes van 33cl.<br>
+											Een atypische Belgische tripel met toevoeging van Amerikaanse hoppen en oranjeschil die zorgen voor de frisse toetsen in het bier. Deze tripel leent zich er toe gedronken te worden bij warme zomerdagen. Het bier geeft een aangename bitterheid die even blijft nazinderen op de tong. Het bier heeft een alcoholpercentage van 8% en is te verkrijgen in flesjes van 33cl.<br>
 										</p>
 										<p class="fh5co-italc to-animate" data-i18n="dateDryHopped">
 											Anno februari 2019
@@ -190,7 +209,7 @@
 									<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
 										<h2 class="fh5co-lead to-animate">Ultima Bee - Honey</h2>
 										<p class="fh5co-sub to-animate" data-i18n="[html]beeHoneyText">
-											Een blond bier met toevoeging van honing van de Hasseltse <a href ="https://www.thehappybees.be/" target="_blank" rel="noopener noreferrer">Imkerij The Happy Bees. </a> Het bier bevat de zoete toets van honing met licht kruidige aromaten. Dit blond bier geeft een warm mondgevoel. Het bier heeft een alcoholpercentage van 7% en is te verkrijgen in flesjes van 33cl.<br>
+											Een blond bier met toevoeging van honing van de Hasseltse <a href ="https://www.thehappybees.be/" target="_blank" rel="noopener noreferrer">Imkerij The Happy Bees. </a> Het bier bevat een zoete toets van de honing met licht kruidige aromaten. Dit blond bier geeft een warm mondgevoel. Het bier heeft een alcoholpercentage van 7% en is te verkrijgen in flesjes van 33cl.<br>
 										</p>
 										<p class="fh5co-italc to-animate" data-i18n="dateBeeHoney">
 											Anno december 2019
@@ -239,7 +258,7 @@
 									<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
 										<h2 class="fh5co-lead to-animate">Ultima Rum - Oaked</h2>
 										<p class="fh5co-sub to-animate" data-i18n="[html]rumOakedText">
-											Deze Barley Wine is een donker bier van 10% alcohol welke heeft gerijpt op eiken snippers met Belgische Rum Double aged van <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle.</a> Een uniek smakenpallet van chocolade, vanille, rum, hout en nog veel meer. Dit bier is volledig artisanaal gebrouwen met een beperkte oplage van in de 640 flessen. Dit bier is enkel te verkrijgen in flessen van 75cl. met kurken stop.<br>
+											Deze Barley Wine is een donker bier van 10% alcohol, gerijpt op eiken snippers met Belgische Rum Double aged van <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle</a>. Een uniek smakenpallet van chocolade, vanille, rum, hout en zoveel meer. Dit bier is volledig artisanaal gebrouwen met een beperkte oplage van 640 flessen. Dit bier is enkel te verkrijgen in flessen van 75cl met kurken stop.<br>
 										</p>
 										<p class="fh5co-italc to-animate" data-i18n="dateRumOaked">
 											Anno december 2019
@@ -433,8 +452,8 @@
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
 									<h2 class="fh5co-lead animate-single features3-animate-1" data-i18n="aboutUs">Over Ons</h2>
-									<p class="fh5co-sub animate-single features3-animate-2" data-i18n="aboutsUsText">
-										Wij van Bierfirma Ultima zijn 4 vrienden met een passie voor bierbrouwen en receptontwikkeling. Hieruit zijn er momenteel 3 bieren voortgevloeid. Een blond honingbier van 7% Alc. , een Exotische Tripel van 8% Alc. en tot slot een Barley wine van 10% Alc. Met deze bieren willen we onze stempel drukken op de grote biermarkt in België. Een eigen brouwerij is toekomstmuziek maar zeker niet onbestaande.
+									<p class="fh5co-sub animate-single features3-animate-2" data-i18n="aboutUsText">
+										Wij van Bierfirma Ultima zijn 4 vrienden met een passie voor bierbrouwen en receptontwikkeling. Hieruit zijn er tot nu toe al 3 bieren voortgevloeid: een blond honingbier van 7% Alc., een Exotische Tripel van 8% Alc. en tot slot een Barley wine van 10% Alc. Met deze bieren willen we onze stempel drukken op de grote biermarkt in België. Een eigen brouwerij is voorlopig nog toekomstmuziek maar zeker niet onbestaande.
 
 									</p>
 								</div>
@@ -453,7 +472,7 @@
 									<div class="fh5co-text to-animate">
 										<img src="images/jonas-cartoon.png" alt="Jonas Maes" class="head-shot">
 										<h4 class="fh5co-uppercase-sm">Jonas Maes</h4>
-										<p data-i18n="[html]zyhtologistBrewer">Zytholoog <br>Brouwer </p>
+										<p data-i18n="[html]zythologistBrewer">Zytholoog <br>Brouwer </p>
 									</div>
 								</div>
 
@@ -473,19 +492,19 @@
 									<div class="fh5co-text to-animate">
 										<img src="images/bram-cartoon.png" alt="Bram Vanermen" class="head-shot">
 										<h4 class="fh5co-uppercase-sm">Bram Vanermen </h4>
-										<p data-i18n="[html]zyhtologistBrewer">Zytholoog <br> Brouwer </p>
+										<p data-i18n="[html]zythologistBrewer">Zytholoog <br> Brouwer </p>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 
-					 <div id="fh5co-subscribe" data-section="untappd">
+					<!-- <div id="fh5co-subscribe" data-section="untappd">
 						<div class="container">
 							<div class="row animate-box">
 								<form action="#" method="post">
 									<div class="col-md-3 col-sm-3">
-									<!--	<div class="form-group">
+										<div class="form-group">
 											<input type="text" class="form-control" placeholder="First Name">
 										</div>
 									</div>
@@ -498,13 +517,13 @@
 										<div class="form-group">
 											<input type="email" class="form-control" placeholder="Email">
 										</div>
-									</div>-->
+									</div>
 
 									</div>
 								</form>
 							</div>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 
@@ -524,18 +543,36 @@
 								</p>
 							</div>
 							<div class="col-md-4 col-sm-4 col-xs-4 col-xxs-4">
-								<p class="fh5co-social-icons pull-right">
+								<div class="fh5co-social-icons pull-right">
 									<!-- <a href="#"><i class="icon-twitter"></i></a> -->
-									<a href="https://www.facebook.com/BierfirmaUltima/" target="_blank" rel="noopener noreferrer">
+									<div class="dropdown icon">
+										<a 
+											href="#"
+											class="dropdown-toggle external"
+											id="langDrop1"
+											data-toggle="dropdown"
+											role="button"
+											aria-haspopup="true"
+											aria-expanded="false"
+										>
+											<i class="icon-flag-o"></i>
+										</a>
+										<ul class="dropdown-menu" aria-labelledby="langDrop1"> 
+											<li><a class="external" href="#" onclick="changeLanguage(event, 'nl')">NL - nederlands</a></li> 
+											<li><a class="external" href="#" onclick="changeLanguage(event, 'fr')">FR - français</a></li> 
+											<li><a class="external" href="#" onclick="changeLanguage(event, 'en')">EN - english</a></li> 
+										</ul>
+									</div>
+									<a class="external" href="https://www.facebook.com/BierfirmaUltima/" target="_blank" rel="noopener noreferrer">
 										<i class="icon-facebook"></i>
 									</a>
-									<a href="https://www.instagram.com/bierfirmaultima/" target="_blank" rel="noopener noreferrer">
+									<a class="external" href="https://www.instagram.com/bierfirmaultima/" target="_blank" rel="noopener noreferrer">
 										<i class="icon-instagram"></i>
 									</a>
-									<a href="mailto:info@bierfirma-ultima.be">
+									<a class="external" href="mailto:info@bierfirma-ultima.be">
 										<i class="icon-mail2"></i>
 									</a>
-								</p>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -544,6 +581,7 @@
 		</div>
 		<script src="js/translations/en.js"></script>
 		<script src="js/translations/nl.js"></script>
+		<script src="js/translations/fr.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/i18next.min.js"></script>
     <script src="js/jquery-i18next.min.js"></script>

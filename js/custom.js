@@ -308,6 +308,9 @@ i18next.init({
     },
     nl: {
       translation: translationsNl
+    },
+    fr: {
+      translation: translationsFr
     }
   }
 }, function() {
@@ -315,24 +318,10 @@ i18next.init({
   $('body').localize();
 });
 
-function changeLanguage(e) {
+function changeLanguage(e, language) {
   e.preventDefault();
-  let currentLang;
-  const newLang = e.target.getAttribute('data-lang');
-  switch (newLang) {
-    case 'en':
-      currentLang = 'nl';
-      currentLangText = 'Nederlands';
-      break;
-    case 'nl':
-      currentLang = 'en';
-      currentLangText = 'English';
-      break;
-  }
-  document.querySelector('html').lang = newLang;
-  e.target.setAttribute('data-lang', currentLang);
-  e.target.innerText = currentLangText;
-  i18next.changeLanguage(newLang, function() {
+  document.querySelector('html').lang = language;
+  i18next.changeLanguage(language, function() {
     jqueryI18next.init(i18next, $);
     $('body').localize();
   });
