@@ -7,7 +7,7 @@ const translationsNl = {    // NEDERLANDSE vertaling verplicht
   dateDryHopped: 'Anno februari 2019',
   beeHoneyText: 'Een blond bier met toevoeging van honing van de Hasseltse <a href ="https://www.thehappybees.be/" target="_blank" rel="noopener noreferrer">Imkerij The Happy Bees. </a> Het bier bevat een zoete toets van de honing met licht kruidige aromaten. Dit blond bier geeft een warm mondgevoel. Het bier heeft een alcoholpercentage van 7% en is te verkrijgen in flesjes van 33cl.',
   dateBeeHoney: 'Anno december 2019',
-  rumOakedText: 'Deze Barley Wine is een donker bier van 10% alcohol, gerijpt op eiken snippers met Belgische Rum Double aged van <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle</a>. Een uniek smakenpallet van chocolade, vanille, rum, hout en zoveel meer. Dit bier is volledig artisanaal gebrouwen met een beperkte oplage van 640 flessen. Dit bier is enkel te verkrijgen in flessen van 75cl met kurken stop.',
+  rumOakedText: 'Deze Barley Wine is een donker bier van 10% alcohol, gerijpt op eiken snippers met Belgische Rum Double aged van <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle</a>. Een uniek smakenpallet van chocolade, vanille, rum, hout en zoveel meer. Dit bier is te verkrijgen in flesjes van 33cl en zolang de voorraad strekt in flessen van 75cl met kurken stop.',
   dateRumOaked: 'Anno december 2019',
   tryUltima: 'Probeer Ultima vandaag!',
   introUltima: 'Ultima al verkrijgbaar bij jou in de buurt? Als er verkooppunten ontbreken, laat ons dit gerust weten.',
