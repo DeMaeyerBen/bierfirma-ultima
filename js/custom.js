@@ -210,8 +210,14 @@ var mapData = [
 
 
 
-// WINKELS
-
+// WINKELS 11
+  {
+    description: 'Prik en Tik Neeroeteren - Drankservice Erlingen<br>Maaseikerlaan 43, 3680 Maaseik',
+    coordinates: {
+      lat: 51.093762, 
+      lng: 5.705059
+    }
+  },
    {
     description: 'Drink-Center Vandepoel,<br>Singellaan 22, 3545 Halen',
     coordinates: {
