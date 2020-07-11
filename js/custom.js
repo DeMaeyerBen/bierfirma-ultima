@@ -1,6 +1,19 @@
 var mapData = [
-// CAFE'S: 28
-{
+// CAFE'S: 30
+  {
+    description: 'De Baron,<br>Graeth 2, 3840 Borgloon',
+    coordinates: {
+      lat: 50.803920, 
+      lng: 5.333712
+    }
+  },
+  {
+    description: 'De Mimosa,<br>Molenweg 163, 3520 Zonhoven',
+    coordinates: {
+      lat: 50.984179, 
+      lng: 5.420314
+    }
+  },{
     description: 'De Hoeselèr,<br>Schepenenlaan 11, 3730 Hoeselt',
     coordinates: {
       lat: 50.849237, 
@@ -13,12 +26,20 @@ var mapData = [
       lng: 5.281383
     }
   },{
-    description: 'De Serre,<br>Dokter Willemsstraat 23, 3500 Hasselt',
+    description: 'De Serre,<br>Zuivelmarkt 33, 3500 Hasselt',
     coordinates: {
-      lat: 50.931529, 
-      lng: 5.334315
+      lat: 50.931704,  
+      lng: 5.340129
     }
-  },{
+  },
+  // {
+  //   description: 'De Serre,<br>Dokter Willemsstraat 23, 3500 Hasselt',
+  //   coordinates: {
+  //     lat: 50.931529, 
+  //     lng: 5.334315
+  //   }
+  // },
+  {
     description: 'Café Kermeta,<br>Diestersteenweg 204, 3510 Kermt',
     coordinates: {
       lat: 50.9473245, 
@@ -171,7 +192,13 @@ var mapData = [
       lat: 50.924749,
       lng: 5.328913
     }
-  }, 
+  },{
+    description: 'De Weyer Cafe,<br> Oud-Mersenhoven 15, 3720 Kortessem',
+    coordinates: {
+      lat: 50.858525,
+      lng: 5.3898143
+    }
+  },
   // {
   //   description: 'Quo Vadis,<br> Dorpsstraat 46, 3520 Zonhoven',
   //   coordinates: {
@@ -200,25 +227,20 @@ var mapData = [
   //     lng: 5.3403796
   //   }
   // },
-  // {
-  //   description: 'De Weyer Cafe,<br> Oud-Mersenhoven 15, 3720 Kortessem',
-  //   coordinates: {
-  //     lat: 50.858525,
-  //     lng: 5.3898143
-  //   }
-  // },
 
 
 
-// WINKELS 11
+
+// WINKELS
+// 11
+
   {
-    description: 'Prik en Tik Neeroeteren - Drankservice Erlingen<br>Maaseikerlaan 43, 3680 Maaseik',
+    description: 'Drankenhal Het Karrewiel,<br>Winkelstraat 47a, 3720 Kortessem',
     coordinates: {
-      lat: 51.093762, 
-      lng: 5.705059
+      lat: 50.872803, 
+      lng: 5.376140
     }
-  },
-   {
+  },{
     description: 'Drink-Center Vandepoel,<br>Singellaan 22, 3545 Halen',
     coordinates: {
       lat: 50.947925, 
