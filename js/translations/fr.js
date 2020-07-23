@@ -5,7 +5,7 @@ const translationsFr = {
   aboutUs: 'À propos de nous',
   dryHoppedText: 'Une triple atypique belge avec un ajout d\'houblon américain et de pelures d\'orange qui procurent une sensation de fraîcheur à cette bière. Cette triple se déguste en tous temps mais particulièrement lors des chaudes journées de l\'été. Elle a une petite aigreur agréable qui rest sur le bout de la langue. Cette bière a un pourcentage de 8% d\'alcool et se ven par bouteilles de 33cl.',
   dateDryHopped: 'Depuis février 2019',
-  beeHoneyText: 'Une bière blonde avec une touche de miel en provenance de l\'Apiculture d\'Hasselt <a href ="https://www.thehappybees.be/" target="_blank" rel="noopener noreferrer">The Happy Bees</a>. Cette bière a un léger goût de miel et d\'épices aromatisées. Elle vous laisse une impression de chaleur dans la bouche. Cette bière a un pourcentage de 7% d\'alcool et se vend en bouteilles de 33cl.',
+  beeHoneyText: 'Une bière blonde avec une touche de miel en provenance de l\'Apiculture d\'Hasselt <a href ="https://www.thehappybees.be/" target="_blank" rel="noopener noreferrer">The Happy Bees</a>. Cette bière a un léger goût de miel et d\'épices aromatisées. Elle vous laisse une impression de chaleur dans la bouche. Cette bière a un pourcentage de 6% d\'alcool et se vend en bouteilles de 33cl.',
   dateBeeHoney: 'Depuis décembre 2019',
   rumOakedText: 'Cette Barley Wine est une bière foncée de 10% d\'alcool qui a mûri sur des copeaux de chêne avec la Rhum Belge Double Aged de <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle</a>. Une palette unique de goûts: chocolat, vanille, rhum et bien d\'autres. Cette bière se vend en bouteilles de 33cl avec bouchon.',
   dateRumOaked: 'Depuis décembre 2019',
@@ -15,7 +15,7 @@ const translationsFr = {
   contactUs: 'Contactez Nous!',
   pubs: 'Pubs',
   shops: 'Magasins',
-  aboutUsText: 'Nous, de la firme de bière Ultima, sommes 4 amis avec une passion pour le brassage et le développement de recettes. De cette passion sont nées pour l\'instant trois bières: une bière blonde au miel de 7% d\'alcool, une triple exotique de 8% d\'alcool et pour finir une Barley Wine de 10% d\'alcool. Avec ces trois bièresnous aimerions marquer notre emprunte sur le grand marché de la bière en Belgique. Notre propr brasserie est un rêve d\'avenir mais pas irréalisable.',
+  aboutUsText: 'Nous, de la firme de bière Ultima, sommes 4 amis avec une passion pour le brassage et le développement de recettes. De cette passion sont nées pour l\'instant trois bières: une bière blonde au miel de 6% d\'alcool, une triple exotique de 8% d\'alcool et pour finir une Barley Wine de 10% d\'alcool. Avec ces trois bièresnous aimerions marquer notre emprunte sur le grand marché de la bière en Belgique. Notre propr brasserie est un rêve d\'avenir mais pas irréalisable.',
   beerLover: 'Amateur de bière',
   zythologist: 'Zythologue',
   zythologistBrewer: 'Zythologue <br>Brasseur'
