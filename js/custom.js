@@ -235,6 +235,12 @@ var mapData = [
 // 11
 
   {
+    description: 'Biercentrale en Drankenhal Corstjens,<br>Schoorstraat 6, 3680 Maaseik',
+    coordinates: {
+      lat: 50.872803, 
+      lng: 5.376140
+    }
+  },{
     description: 'Drankenhal Het Karrewiel,<br>Winkelstraat 47a, 3720 Kortessem',
     coordinates: {
       lat: 50.872803, 
