@@ -5944,7 +5944,7 @@ h1, h2, h3, h4, h5, h6 {
           text-decoration: none;
           color: #fac240; }
       #fh5co-offcanvass ul li.active a {
-        color: #fac240 !important; }
+        color: #000000 !important }
   #fh5co-offcanvass.fh5co-awake {
     -webkit-transform: translateX(0px);
     -moz-transform: translateX(0px);
@@ -6056,7 +6056,7 @@ h1, h2, h3, h4, h5, h6 {
           #fh5co-hero .fh5co-intro .fh5co-intro-img img {
             max-width: 100%; } }
     #fh5co-hero .fh5co-intro .fh5co-text {
-      bottom: -15em; }
+      bottom: -7em; }
       @media screen and (max-width: 992px) {
         #fh5co-hero .fh5co-intro .fh5co-text {
           bottom: 0;
@@ -6124,6 +6124,7 @@ h1, h2, h3, h4, h5, h6 {
     .navbar-brand {
       margin: inherit;
       text-align: left;
+      zoom: 0.5;
       padding-left: 0;
       margin-left: 0; } }
 
