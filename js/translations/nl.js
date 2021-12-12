@@ -9,6 +9,8 @@ const translationsNl = {    // NEDERLANDSE vertaling verplicht
   dateBeeHoney: 'Anno december 2019',
   rumOakedText: 'Deze Barley Wine is een donker bier van 10% alcohol, gerijpt op eiken snippers met Belgische Rum Double aged van <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle</a>. Een uniek smakenpallet van chocolade, vanille, rum, hout en zoveel meer. Dit bier is te verkrijgen in flesjes van 33cl en zolang de voorraad strekt in flessen van 75cl met kurken stop.',
   dateRumOaked: 'Anno december 2019',
+  berryWhite: 'Een witbier met toevoeging van framboos. Dit bier is te verkrijgen in flesjes van 33cl.',
+  dateBerryWhite: 'Anno mei 2021',
   tryUltima: 'Probeer Ultima vandaag!',
   introUltima: 'Ultima al verkrijgbaar bij jou in de buurt? Als er verkooppunten ontbreken, laat ons dit gerust weten.',
   findUltima: 'Vind Ultima!',
@@ -18,5 +20,7 @@ const translationsNl = {    // NEDERLANDSE vertaling verplicht
   aboutUsText: 'Wij van Bierfirma Ultima zijn 4 vrienden met een passie voor bierbrouwen en receptontwikkeling. Hieruit zijn er tot nu toe al 3 bieren voortgevloeid: een blond honingbier van 6% Alc., een Exotische Tripel van 8% Alc. en tot slot een Barley wine van 10% Alc. Met deze bieren willen we onze stempel drukken op de grote biermarkt in België. Een eigen brouwerij is voorlopig nog toekomstmuziek maar zeker niet onbestaande.',
   beerLover: 'Bierfliefhebber',
   zythologist: 'Zytholoog',
-  zythologistBrewer: 'Zytholoog <br> Brouwer'
+  zythologistBrewer: 'Zytholoog <br> Brouwer',
+  collabs: 'Bier Samenwerkingen',
+  collabsText: 'Wil jij ook een eigen bier voor jou vereniging, huwelijksfeest of gewoon zomaar? Neem vandaag nog vrijblijvend <a href="mailto:info@bierfirma-ultima.be">contact</a> met ons op en we helpen je op weg om dit te kunnen verwezelijken.'
 }

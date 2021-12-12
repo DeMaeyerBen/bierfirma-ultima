@@ -9,6 +9,8 @@ const translationsFr = {
   dateBeeHoney: 'Depuis décembre 2019',
   rumOakedText: 'Cette Barley Wine est une bière foncée de 10% d\'alcool qui a mûri sur des copeaux de chêne avec la Rhum Belge Double Aged de <a href ="https://www.ghostinabottle.be/" target="_blank" rel="noopener noreferrer">Ghost in a Bottle</a>. Une palette unique de goûts: chocolat, vanille, rhum et bien d\'autres. Cette bière se vend en bouteilles de 33cl avec bouchon.',
   dateRumOaked: 'Depuis décembre 2019',
+  berryWhite: 'ne bière de blé additionnée de framboise. Cette bière est disponible en bouteilles de 33cl.',
+  dateBerryWhite: 'Anno mai 2021',
   tryUltima: 'Essayez Ultima aujourd\'hui!',
   introUltima: 'Ultima déjà disponible dans votre région? S\'il manque des points de vente, n\'hésitez pas et contactez-nous!',
   findUltima: 'Retrouvez Ultima!',
@@ -18,5 +20,7 @@ const translationsFr = {
   aboutUsText: 'Nous, de la firme de bière Ultima, sommes 4 amis avec une passion pour le brassage et le développement de recettes. De cette passion sont nées pour l\'instant trois bières: une bière blonde au miel de 6% d\'alcool, une triple exotique de 8% d\'alcool et pour finir une Barley Wine de 10% d\'alcool. Avec ces trois bièresnous aimerions marquer notre emprunte sur le grand marché de la bière en Belgique. Notre propr brasserie est un rêve d\'avenir mais pas irréalisable.',
   beerLover: 'Amateur de bière',
   zythologist: 'Zythologue',
-  zythologistBrewer: 'Zythologue <br>Brasseur'
+  zythologistBrewer: 'Zythologue <br>Brasseur',
+  collabs: 'Collaborations de bière',
+  collabsText: 'Voulez-vous votre propre bière mais vous ne savez pas par où commencer? Contactez-nous aujourd\'hui!'
 }
